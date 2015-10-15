@@ -1,0 +1,21 @@
+body {
+  color: yellow;
+  background-color: #3d72da;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: white;
+}
+
+a:hover {
+  color: green;
+}
+
+h1 {
+  text-shadow: 5px 5px blue;
+
+}
